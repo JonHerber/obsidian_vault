@@ -13,5 +13,15 @@ _by [Andrej Kaparthy](https://www.google.com/search?q=how+I+use+llms&oq=how+I+us
 - Consider which model you are using 
   --> easy tasks should not use reasoning models
   --> harder tasks should use reasoning models
+## Tool usage 
+- [[LLM tool examples]]
+- Kind of like my understanding of agents
+- Super useful e.g. for reading a paper and having a "assistant to ask questions" in a different tab
+- Always be a bit suspicious about its answers
+## Voice mode 
+- easier to use - sorta like an assistant
+- best way to use is probably text-to-speech tools (https://github.com/braden-w/whispering)
+
+
 
 

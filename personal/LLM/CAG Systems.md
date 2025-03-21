@@ -32,7 +32,7 @@
     
     - Send it back to the user, possibly with source or context attached.
 
-### 🧠 Example Use Case (CAG)
+## 🧠 Example Use Case (CAG)
 
 > **“What is the current status of my order?”**
 

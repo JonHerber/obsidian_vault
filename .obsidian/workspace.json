@@ -11,12 +11,19 @@
             "id": "1329ace424f527c3",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "kanban",
               "state": {
-                "file": "personal/LLM/tokenizer.png"
+                "file": "Untitled Kanban.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false
+                  ]
+                }
               },
-              "icon": "lucide-image",
-              "title": "tokenizer"
+              "icon": "lucide-trello",
+              "title": "Untitled Kanban"
             }
           }
         ]
@@ -155,7 +162,7 @@
             }
           },
           {
-            "id": "48b04ca3d4f71a53",
+            "id": "0c16aa32a736ec4e",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -173,6 +180,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-kanban:Create new board": false,
       "obsidian-importer:Open Importer": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "switcher:Open quick switcher": false,
@@ -181,25 +189,25 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-kanban:Create new board": false
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "1329ace424f527c3",
   "lastOpenFiles": [
-    "personal/LLM/RAG Systems.md",
+    "Untitled Kanban.md",
     "personal/LLM/tokenizer.png",
-    "personal/LLM/LLM tool examples.md",
-    "personal/LLM/How to use LLMs.md",
+    "personal/LLM/RAG Systems.md",
     "personal/LLM/How do LLMs work.md",
-    "Excalidraw/tokens.excalidraw.md",
-    "Excalidraw/HowIUseLLMs.excalidraw",
-    "Excalidraw/How do LLMs work 2025-03-07 09.17.44.excalidraw.md",
+    "personal/LLM/How to use LLMs.md",
+    "personal/LLM/LLM tool examples.md",
     "personal/LLM/CAG Systems.md",
     "Excalidraw/CAG Systems 2025-03-21 19.54.29.excalidraw.md",
     "Text Document (neu).txt",
     "Excalidraw/RAG Systems 2025-03-21 19.43.02.excalidraw.md",
     "Excalidraw",
+    "Excalidraw/HowIUseLLMs.excalidraw",
+    "Excalidraw/How do LLMs work 2025-03-07 09.17.44.excalidraw.md",
+    "Excalidraw/tokens.excalidraw.md",
     "vault/Excalidraw",
     "personal/LLM",
     "personal",

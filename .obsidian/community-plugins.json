@@ -1,5 +1,9 @@
 [
   "obsidian-git",
   "obsidian-importer",
-  "obsidian-excalidraw-plugin"
+  "obsidian-excalidraw-plugin",
+  "obsidian-icon-folder",
+  "calendar",
+  "obsidian-kanban",
+  "obsidian-tasks-plugin"
 ]

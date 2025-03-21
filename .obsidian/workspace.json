@@ -11,12 +11,12 @@
             "id": "1329ace424f527c3",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "image",
               "state": {
-                "file": "Excalidraw/CAG Systems 2025-03-21 19.54.29.excalidraw.md"
+                "file": "personal/LLM/tokenizer.png"
               },
-              "icon": "excalidraw-icon",
-              "title": "CAG Systems 2025-03-21 19.54.29.excalidraw"
+              "icon": "lucide-image",
+              "title": "tokenizer"
             }
           }
         ]
@@ -153,6 +153,16 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "48b04ca3d4f71a53",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
           }
         ],
         "currentTab": 4
@@ -171,24 +181,25 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-kanban:Create new board": false
     }
   },
-  "active": "08e162dbc9fa41f9",
+  "active": "1329ace424f527c3",
   "lastOpenFiles": [
-    "Text Document (neu).txt",
     "personal/LLM/RAG Systems.md",
-    "Excalidraw/CAG Systems 2025-03-21 19.54.29.excalidraw.md",
+    "personal/LLM/tokenizer.png",
     "personal/LLM/LLM tool examples.md",
     "personal/LLM/How to use LLMs.md",
     "personal/LLM/How do LLMs work.md",
-    "personal/LLM/CAG Systems.md",
-    "Excalidraw/RAG Systems 2025-03-21 19.43.02.excalidraw.md",
-    "Excalidraw",
-    "personal/LLM/tokenizer.png",
+    "Excalidraw/tokens.excalidraw.md",
     "Excalidraw/HowIUseLLMs.excalidraw",
     "Excalidraw/How do LLMs work 2025-03-07 09.17.44.excalidraw.md",
-    "Excalidraw/tokens.excalidraw.md",
+    "personal/LLM/CAG Systems.md",
+    "Excalidraw/CAG Systems 2025-03-21 19.54.29.excalidraw.md",
+    "Text Document (neu).txt",
+    "Excalidraw/RAG Systems 2025-03-21 19.43.02.excalidraw.md",
+    "Excalidraw",
     "vault/Excalidraw",
     "personal/LLM",
     "personal",
@@ -222,7 +233,6 @@
     "remote-sync/publish/connect-obsidian-vault-with-github.md",
     "remote-sync/publish/attachments",
     "remote-sync/publish",
-    "remote-sync",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "Untitled 3.canvas",

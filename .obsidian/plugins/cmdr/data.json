@@ -15,6 +15,13 @@
       "name": "Omnisearch: Vault search",
       "mode": "5f27ca98df53b9e3",
       "color": "#ffffff"
+    },
+    {
+      "id": "omnisearch:show-modal",
+      "icon": "lucide-search",
+      "name": "Omnisearch: Vault search",
+      "mode": "any",
+      "color": "#ffffff"
     }
   ],
   "macros": [],

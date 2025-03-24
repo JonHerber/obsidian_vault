@@ -1,10 +1,11 @@
+#LLM 
 _by [Andrej Kaparthy](https://www.google.com/search?q=how+I+use+llms&oq=how+I+use+llms+&gs_lcrp=EgZjaHJvbWUyCggAEEUYFhgeGDkyCggBEAAYChgWGB4yCAgCEAAYFhgeMggIAxAAGBYYHjIICAQQABgWGB4yCAgFEAAYFhgeMggIBhAAGBYYHjIICAcQABgWGB4yCggIEAAYChgWGB4yCAgJEAAYFhge0gEIMjM2N2owajeoAgCwAgA&sourceid=chrome&ie=UTF-8#fpstate=ive&vld=cid:edb46156,vid:EWvNQjAaOHw,st:0)_
 
 ## Evaluation sites & leaderboards
 - [Scale](scale.com/leaderboard) (different benchmarks)
 - [LMArena](lmarena.ai) (blind user tests evaluation with elo system)
 ## How do LLMs actually work?
-- [[How do LLMs work?]]
+- [[How do LLMs work]]
 ## When to ask a LLM 
 - If you are asking a question, that is **not based on very recent events/discoveries**
 - If the question you are asking, is pobably **very commonly asked on the internet** or the **topic is often discussed**
@@ -23,5 +24,13 @@ _by [Andrej Kaparthy](https://www.google.com/search?q=how+I+use+llms&oq=how+I+us
 - best way to use is probably text-to-speech tools (https://github.com/braden-w/whispering)
 
 
-
+- [x] Mercury ✅ 2025-03-24
+- [x] Venus
+- [x] Earth (Orbit/Moon)
+- [x] Mars
+- [x] Jupiter ✅ 2025-03-24
+- [x] Saturn ✅ 2025-03-24
+- [x] Uranus ✅ 2025-03-24
+- [ ] Neptune
+- [x] Comet Haley ✅ 2025-03-24
 

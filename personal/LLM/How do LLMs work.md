@@ -1,3 +1,4 @@
+#LLM 
 - LLMs take an input of words and transform them into tokens
 - there are different [tokenizers](tiktokenizer.vercel.app)
 ![[tokenizer.png]]

@@ -1,0 +1,37 @@
+{
+  "cascadeColors": true,
+  "colorBackground": false,
+  "palette": [
+    {
+      "id": "VzZZoMMx_zWOQHC2LILXP",
+      "name": "Technical",
+      "value": "#c20000"
+    },
+    {
+      "id": "9FTUjXDQ834JRYyX8lPhx",
+      "name": "University",
+      "value": "#1803ba"
+    },
+    {
+      "id": "LrNwy_es1vcBm5MZtkKU-",
+      "name": "Book",
+      "value": "#129301"
+    },
+    {
+      "id": "O5_HJwbMJU7zZp62N7_C0",
+      "name": "Journal",
+      "value": "#f9df34"
+    },
+    {
+      "id": "zgsRjFmyUjGnZFiNvHwVG",
+      "name": "Other",
+      "value": "#ff00c8"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "personal/LLM",
+      "color": "VzZZoMMx_zWOQHC2LILXP"
+    }
+  ]
+}

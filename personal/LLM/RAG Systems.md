@@ -1,3 +1,4 @@
+#LLM 
 ![[RAG Systems 2025-03-21 19.43.02.excalidraw]]
 ## 🧠 Retriever: What It Actually Does
 

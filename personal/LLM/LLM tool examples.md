@@ -1,3 +1,4 @@
+#LLM 
 [[How do LLMs work?]]
 ## Deep-research
 - Tool to get a first in-depth report to a more complex topic

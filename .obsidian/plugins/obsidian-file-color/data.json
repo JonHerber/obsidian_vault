@@ -1,5 +1,5 @@
 {
-  "cascadeColors": true,
+  "cascadeColors": false,
   "colorBackground": false,
   "palette": [
     {
@@ -34,12 +34,16 @@
       "color": "VzZZoMMx_zWOQHC2LILXP"
     },
     {
+      "path": "books",
+      "color": "LrNwy_es1vcBm5MZtkKU-"
+    },
+    {
       "path": "templates",
       "color": "zgsRjFmyUjGnZFiNvHwVG"
     },
     {
-      "path": "books",
-      "color": "LrNwy_es1vcBm5MZtkKU-"
+      "path": "Excalidraw",
+      "color": "zgsRjFmyUjGnZFiNvHwVG"
     }
   ]
 }

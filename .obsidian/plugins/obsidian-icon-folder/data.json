@@ -6,9 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiBook",
+      "LiLayoutDashboard",
+      "LiPaintbrush",
+      "LiExcalidrawIcon",
       "LiBookTemplate",
-      "🤖"
+      "LiBook"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -33,6 +35,8 @@
     "useInternalPlugins": false
   },
   "personal/LLM": "🤖",
+  "books": "LiBook",
   "templates": "LiBookTemplate",
-  "books": "LiBook"
+  "Excalidraw": "LiPaintbrush",
+  "Dashboard.md": "LiLayoutDashboard"
 }

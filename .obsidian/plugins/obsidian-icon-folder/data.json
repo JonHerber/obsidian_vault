@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiCode",
+      "LiWrench",
       "LiLayoutDashboard",
       "LiPaintbrush",
-      "LiExcalidrawIcon",
-      "LiBookTemplate",
-      "LiBook"
+      "LiExcalidrawIcon"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -34,9 +34,11 @@
     "debugMode": false,
     "useInternalPlugins": false
   },
-  "personal/LLM": "🤖",
   "books": "LiBook",
   "templates": "LiBookTemplate",
   "Excalidraw": "LiPaintbrush",
-  "Dashboard.md": "LiLayoutDashboard"
+  "Dashboard.md": "LiLayoutDashboard",
+  "Technical/LLM": "🤖",
+  "Technical": "LiWrench",
+  "Technical/Leetcode": "LiCode"
 }

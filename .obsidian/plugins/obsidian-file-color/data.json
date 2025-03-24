@@ -30,7 +30,7 @@
   ],
   "fileColors": [
     {
-      "path": "personal/LLM",
+      "path": "Technical/LLM",
       "color": "VzZZoMMx_zWOQHC2LILXP"
     },
     {
@@ -44,6 +44,14 @@
     {
       "path": "Excalidraw",
       "color": "zgsRjFmyUjGnZFiNvHwVG"
+    },
+    {
+      "path": "Technical",
+      "color": "VzZZoMMx_zWOQHC2LILXP"
+    },
+    {
+      "path": "Technical/Leetcode",
+      "color": "VzZZoMMx_zWOQHC2LILXP"
     }
   ]
 }

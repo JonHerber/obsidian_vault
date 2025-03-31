@@ -33,7 +33,6 @@
     "debugMode": false,
     "useInternalPlugins": false
   },
-  "personal/LLM": "🤖",
   "templates": "LiBookTemplate",
   "books": "LiBook",
   "personal/Neural Networkds": "LiBrain"

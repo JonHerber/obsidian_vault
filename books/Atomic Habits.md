@@ -1,6 +1,6 @@
 # Book Title: Atomic Habits
 
-## Author: #James_Clear
+## Author: James Clear
 
 ## Genre: #Productivity
 

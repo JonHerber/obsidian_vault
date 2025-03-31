@@ -6,6 +6,7 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiBrain",
       "LiBook",
       "LiBookTemplate",
       "🤖"
@@ -34,5 +35,6 @@
   },
   "personal/LLM": "🤖",
   "templates": "LiBookTemplate",
-  "books": "LiBook"
+  "books": "LiBook",
+  "personal/Neural Networkds": "LiBrain"
 }

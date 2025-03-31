@@ -13,7 +13,10 @@
     "excalidraw": 1,
     "LLM": 2,
     "James_Clear": 3,
-    "Productivity": 4
+    "Productivity": 4,
+    "ANN": 5,
+    "ANN/gradientDescent": 1,
+    "ANN/gradientDescent/costFunction": 1
   },
   "_version": 3
 }

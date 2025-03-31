@@ -1,5 +1,5 @@
 {
-  "cascadeColors": true,
+  "cascadeColors": false,
   "colorBackground": false,
   "palette": [
     {
@@ -30,12 +30,32 @@
   ],
   "fileColors": [
     {
-      "path": "templates",
-      "color": "zgsRjFmyUjGnZFiNvHwVG"
+      "path": "Technical/LLM",
+      "color": "VzZZoMMx_zWOQHC2LILXP"
     },
     {
       "path": "books",
       "color": "LrNwy_es1vcBm5MZtkKU-"
+    },
+    {
+      "path": "templates",
+      "color": "zgsRjFmyUjGnZFiNvHwVG"
+    },
+    {
+      "path": "Excalidraw",
+      "color": "zgsRjFmyUjGnZFiNvHwVG"
+    },
+    {
+      "path": "Technical",
+      "color": "VzZZoMMx_zWOQHC2LILXP"
+    },
+    {
+      "path": "Technical/Leetcode",
+      "color": "VzZZoMMx_zWOQHC2LILXP"
+    },
+    {
+      "path": "Technical/Neural Networks",
+      "color": "VzZZoMMx_zWOQHC2LILXP"
     }
   ]
 }
